@@ -30,4 +30,3 @@ drwxr-xr-x@ 62 root    wheel     2108 12 17 14:28 sbin
 lrwxr-xr-x@  1 root    wheel       11 11 11 13:05 tmp -> private/tmp
 drwxr-xr-x@ 12 root    wheel      408 11 11 13:20 usr
 lrwxr-xr-x@  1 root    wheel       11 11 11 13:05 var -> private/var
-lrwxr-xr-x   1 root    wheel       49  7 15  2013 사용자 정보 -> /Library/Documentation/User Information.localized
