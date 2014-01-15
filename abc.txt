@@ -1,0 +1,33 @@
+total 16477
+drwxr-xr-x  34 root    wheel     1224 11 11 13:27 .
+drwxr-xr-x  34 root    wheel     1224 11 11 13:27 ..
+-rw-rw-r--@  1 root    admin     6148  1  9 12:10 .DS_Store
+d--x--x--x   8 root    wheel      272 11 11 13:27 .DocumentRevisions-V100
+drwxr-xr-x   2 root    wheel       68  3 13  2013 .PKInstallSandboxManager
+drwx------   5 root    wheel      170  3 13  2013 .Spotlight-V100
+d-wx-wx-wt   2 root    wheel       68 11 11 13:27 .Trashes
+-rw-r--r--@  1 DHJang  staff      312  8  8 12:04 .apdisk
+----------   1 root    admin        0  8 25 09:16 .file
+drwx------  82 root    wheel     2788  1 15 10:55 .fseventsd
+drwxr-xr-x@  2 root    wheel       68  8 25 10:48 .vol
+drwxrwxr-x+ 75 root    admin     2550  1  9 11:10 Applications
+drwxr-xr-x+ 63 root    wheel     2142 11 11 13:20 Library
+drwxr-xr-x@  2 root    wheel       68  8 25 09:15 Network
+drwxr-xr-x+  4 root    wheel      136 11 11 13:10 System
+drwxr-xr-x   5 root    admin      170 11 11 13:14 Users
+drwxrwxrwt@  3 root    admin      102  1 14 13:25 Volumes
+drwxr-xr-x@ 39 root    wheel     1326 11 11 13:11 bin
+drwxrwxr-t@  2 root    admin       68  8 25 09:15 cores
+dr-xr-xr-x   3 root    wheel     4331  1 13 10:24 dev
+lrwxr-xr-x@  1 root    wheel       11 11 11 13:05 etc -> private/etc
+dr-xr-xr-x   2 root    wheel        1  1 14 11:28 home
+-rw-r--r--@  1 DHJang  staff        0  8  5 14:14 libpeerconnection.log
+-rwxr-xr-x@  1 root    wheel  8393256  9 20 14:22 mach_kernel
+dr-xr-xr-x   2 root    wheel        1  1 14 11:28 net
+drwxr-xr-x@  6 root    wheel      204 11 11 13:14 private
+drwxr-xr-x@ 62 root    wheel     2108 12 17 14:28 sbin
+-rw-rw-rw-   1 DHJang  staff      995  1  3 19:04 sockets.log
+lrwxr-xr-x@  1 root    wheel       11 11 11 13:05 tmp -> private/tmp
+drwxr-xr-x@ 12 root    wheel      408 11 11 13:20 usr
+lrwxr-xr-x@  1 root    wheel       11 11 11 13:05 var -> private/var
+lrwxr-xr-x   1 root    wheel       49  7 15  2013 사용자 정보 -> /Library/Documentation/User Information.localized
