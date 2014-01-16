@@ -2,10 +2,11 @@
 
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-이름 : 장동현
+이름 : 이상준
 
-팀 : 모바일개발팀
+팀 : ux개발팀
 
-Github ID : w9174760
+Github ID : ls032
 
-E-mail : dhjang@wemakeprice.com
+E-mail : lsj032@wemakeprice.com
+
